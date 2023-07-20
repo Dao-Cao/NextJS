@@ -7,7 +7,7 @@ export const MysqlDataSource = new DataSource({
     host: "dev5p.in.satt.jp",
     port: 3306,
     username: "root",
-    password: "Abc123$%&",
+    password: "XXXX%&",
     database: "sf-ri",
     synchronize: true,
     logging: true,
